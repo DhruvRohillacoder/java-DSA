@@ -6,3 +6,5 @@ public class basic {
         sc.close();
     }
 }
+//java?
+//java?
